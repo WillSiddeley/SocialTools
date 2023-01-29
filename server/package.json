@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend for SocialTools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillSiddeley/SocialTools.git"
+  },
+  "author": "DeathyVoid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillSiddeley/SocialTools/issues"
+  },
+  "homepage": "https://github.com/WillSiddeley/SocialTools#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.31.3"
+  }
+}
